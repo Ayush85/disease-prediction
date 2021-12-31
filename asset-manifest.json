@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/disease-prediction/static/css/main.bd13b50d.chunk.css",
+    "main.js": "/disease-prediction/static/js/main.0e8780c6.chunk.js",
+    "main.js.map": "/disease-prediction/static/js/main.0e8780c6.chunk.js.map",
+    "runtime-main.js": "/disease-prediction/static/js/runtime-main.b4d20f41.js",
+    "runtime-main.js.map": "/disease-prediction/static/js/runtime-main.b4d20f41.js.map",
+    "static/js/2.a2dde473.chunk.js": "/disease-prediction/static/js/2.a2dde473.chunk.js",
+    "static/js/2.a2dde473.chunk.js.map": "/disease-prediction/static/js/2.a2dde473.chunk.js.map",
+    "index.html": "/disease-prediction/index.html",
+    "precache-manifest.2ead229bc1cb4e9e9f3b598436084fd9.js": "/disease-prediction/precache-manifest.2ead229bc1cb4e9e9f3b598436084fd9.js",
+    "service-worker.js": "/disease-prediction/service-worker.js",
+    "static/css/main.bd13b50d.chunk.css.map": "/disease-prediction/static/css/main.bd13b50d.chunk.css.map",
+    "static/js/2.a2dde473.chunk.js.LICENSE.txt": "/disease-prediction/static/js/2.a2dde473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4d20f41.js",
+    "static/js/2.a2dde473.chunk.js",
+    "static/css/main.bd13b50d.chunk.css",
+    "static/js/main.0e8780c6.chunk.js"
+  ]
+}
